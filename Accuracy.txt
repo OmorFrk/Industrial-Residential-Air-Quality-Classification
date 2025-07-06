@@ -1,0 +1,7 @@
+1. Logistic Regression: 97.396 %
+2. KNN: 98.497%
+3. SVM: 97.548%
+4. Kernel SVM: 98.846%
+5. Naive Bayes: 92.349%
+6. Decision Tree Classification: 99.02%
+7. Random Forest Classification: 99.324%
